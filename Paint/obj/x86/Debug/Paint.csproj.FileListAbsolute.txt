@@ -1,0 +1,16 @@
+C:\Users\Zippocat\Downloads\1\Paint\Paint\obj\x86\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\Zippocat\Downloads\1\Paint\Paint\obj\x86\Debug\Paint.Paint.resources
+C:\Users\Zippocat\Downloads\1\Paint\Paint\obj\x86\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\Zippocat\Downloads\1\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\Zippocat\Downloads\1\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\Zippocat\Downloads\1\Paint\Paint\obj\x86\Debug\Paint.Properties.Resources.resources
+C:\Users\Zippocat\Downloads\1\Paint\Paint\obj\x86\Debug\Paint.exe
+C:\Users\Zippocat\Downloads\1\Paint\Paint\obj\x86\Debug\Paint.pdb
+C:\Users\Zippocat\Downloads\1\Paint C#\Paint\obj\x86\Debug\Paint.exe
+C:\Users\Zippocat\Downloads\1\Paint C#\Paint\obj\x86\Debug\Paint.pdb
+C:\Users\Zippocat\Downloads\1\Paint C#\Paint\bin\Debug\Paint.exe
+C:\Users\Zippocat\Downloads\1\Paint C#\Paint\bin\Debug\Paint.pdb
+C:\Users\Zippocat\Downloads\1\Paint C#\Paint\obj\x86\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\Zippocat\Downloads\1\Paint C#\Paint\obj\x86\Debug\Paint.Paint.resources
+C:\Users\Zippocat\Downloads\1\Paint C#\Paint\obj\x86\Debug\Paint.Properties.Resources.resources
+C:\Users\Zippocat\Downloads\1\Paint C#\Paint\obj\x86\Debug\Paint.csproj.GenerateResource.Cache
